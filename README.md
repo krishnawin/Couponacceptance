@@ -25,4 +25,4 @@ ased on the above analysis the Restaurant(<20) coupon can be targeted to custome
 This will improve Acceptance rate to 80 % from current 70%
 
 Refer the below notebook for the data analyis for above findings
-https://github.com/krishnawin/Couponacceptance/blob/main/prompt.ipynb
+[a link](https://github.com/krishnawin/Couponacceptance/blob/main/prompt.ipynb)
